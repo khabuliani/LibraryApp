@@ -1,0 +1,11 @@
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.deps.json
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.AssemblyInfoInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.AssemblyInfo.cs
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\refint\LibraryApp.Domain.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\ref\LibraryApp.Domain.dll

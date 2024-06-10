@@ -1,0 +1,40 @@
+﻿@model IEnumerable<LibraryApp.Domain.Dto.GetAllBookDto>
+@{
+    var titleFilter = ViewData["TitleFilter"] as string;
+}
+
+<h1>Books</h1>
+
+<form method="get">
+    <div class="form-group">
+        <label for="title">Filter by Title</label>
+        <input type="text" name="title" id="title" class="form-control" value="@titleFilter" />
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<a asp-action="Create" class="btn btn-primary">Create New</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Authors</td>
+                <td>
+                    <a asp-action="BookDetails" asp-route-id="@book.Id">View Details</a> |
+                    <a asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

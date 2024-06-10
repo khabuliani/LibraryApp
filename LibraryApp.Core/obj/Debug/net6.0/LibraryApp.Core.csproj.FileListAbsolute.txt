@@ -1,0 +1,17 @@
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.Core.deps.json
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.Core.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.Core.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.csproj.AssemblyReference.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.AssemblyInfoInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.AssemblyInfo.cs
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\refint\LibraryApp.Core.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\ref\LibraryApp.Core.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.Core\obj\Debug\net6.0\LibraryApp.Core.csproj.CopyComplete

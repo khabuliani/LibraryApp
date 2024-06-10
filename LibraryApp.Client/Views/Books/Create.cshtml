@@ -1,0 +1,42 @@
+﻿
+@model LibraryApp.Client.Models.BookViewModel
+
+<h1>Create Book</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Book.Title"></label>
+        <input asp-for="Book.Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.Description"></label>
+        <textarea asp-for="Book.Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.Picture"></label>
+        <input asp-for="Book.Picture" class="form-control" type="url"></input>
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.Rate"></label>
+        <input asp-for="Book.Rate" class="form-control" type="number"></input>
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.CreationDate"></label>
+        <input asp-for="Book.CreationDate" class="form-control" type="date"></input>
+    </div>
+    <div class="form-group">
+        <label asp-for="Book.IsTaken"></label>
+        <input asp-for="Book.IsTaken" class="form-control" type="checkbox"></input>
+    </div>
+    <div class="form-group">
+        <label for="authors">Authors</label>
+        <select asp-for="SelectedAuthorIds" class="form-control" multiple="multiple">
+            @foreach (var author in Model.Authors)
+            {
+                <option value="@author.Value">@author.Text</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="AllBooks" class="btn btn-secondary">Cancel</a>
+</form>

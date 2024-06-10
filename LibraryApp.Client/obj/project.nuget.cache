@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMeHwmG6TUJAvzSGa4lXeLqhoXgYx22ZI5Xv2e3JPYdnq/YqKuEsXWsQDyLKdv9yfsLltBzbIyw9Jw4zZof1xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xabul\\source\\repos\\LibraryApp\\LibraryApp.Client\\LibraryApp.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xabul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

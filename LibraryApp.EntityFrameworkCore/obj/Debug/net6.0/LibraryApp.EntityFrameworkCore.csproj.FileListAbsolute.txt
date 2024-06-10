@@ -1,0 +1,17 @@
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.deps.json
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.runtimeconfig.json
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.EntityFrameworkCore.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\bin\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\refint\LibraryApp.EntityFrameworkCore.dll
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.pdb
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\LibraryApp.EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\xabul\source\repos\LibraryApp\LibraryApp.EntityFrameworkCore\obj\Debug\net6.0\ref\LibraryApp.EntityFrameworkCore.dll
